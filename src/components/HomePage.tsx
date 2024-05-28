@@ -1,8 +1,6 @@
 // HomePage.js
-import React from 'react'
-import Navbar from './Navbar'
-import Sidebar from './Sidebar'
 import Newsfeed from './Newsfeed'
+import Sidebar from './Sidebar'
 
 const HomePage = () => {
   const sidebarDetails = { firstName: 'Rysh', lastName: 'Magbanua' }
